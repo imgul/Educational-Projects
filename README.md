@@ -29,10 +29,10 @@ This repository contains a collection of educational projects that I have worked
 This project is a simple course retriever from a database using PHP and MySQL. The project is a simple web application that allows the user to retrieve courses from a database.
 
 Course Retrieval Form
-![Course Retrieval Form](img/backend/php-mysql/empty-form.png)
+![Course Retrieval Form](https://github.com/imgul/Educational-Projects/blob/course-retriev-html-bootstrap-php-mysql/img/backend/php-mysql/empty-form.png?raw=true)
 
 Single Course:
-![Single course data retrieved](img/backend/php-mysql/single-course.png)
+![Single course data retrieved](https://github.com/imgul/Educational-Projects/blob/course-retriev-html-bootstrap-php-mysql/img/backend/php-mysql/single-course.png?raw=true)
 
 All Courses:
-![All courses data retrieved](img/backend/php-mysql/all-courses.png)
+![All courses data retrieved](https://github.com/imgul/Educational-Projects/blob/course-retriev-html-bootstrap-php-mysql/img/backend/php-mysql/all-courses.png?raw=true)
