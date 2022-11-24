@@ -24,7 +24,7 @@ This repository contains a collection of educational projects that I have worked
 
 ### PHP, MySQL
 
-#### Course Retriever from Database using PHP and MySQL
+#### [Course Retriever from Database using PHP and MySQL](https://github.com/imgul/Educational-Projects/tree/course-retriev-html-bootstrap-php-mysql)
 
 This project is a simple course retriever from a database using PHP and MySQL. The project is a simple web application that allows the user to retrieve courses from a database.
 
